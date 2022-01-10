@@ -1,7 +1,1 @@
 worldtime: http://worldtimeapi.org/api/timezone/
-spring:
-  datasource:
-    driver-class-name: org.postgresql.Driver
-    password: ${DATABASE_PASSWORD}
-    url: ${DATABASE_URL}
-    username: ${DATABASE_USERNAME}
