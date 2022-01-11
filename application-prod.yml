@@ -1,1 +1,5 @@
 worldtime: http://worldtimeapi.org/api/timezone/
+
+server:
+  error:
+    include-message: on-param
