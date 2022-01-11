@@ -1,1 +1,5 @@
 worldtime: http://localhost:8081/
+
+server:
+  error:
+    include-message: always
